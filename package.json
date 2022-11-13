@@ -1,0 +1,15 @@
+{
+  "name": "js-tests",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "just me playing around with tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilia Vazhenin",
+  "license": "ISC"
+}
